@@ -261,8 +261,6 @@ public class FellowshipOfCode
     */
     public static void main(String[] args)
     {
-        // CaveTest ct = new CaveTest();
-        // ct.testCave();
         FellowshipOfCode game = new FellowshipOfCode();
         game.start();
     }
